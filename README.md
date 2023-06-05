@@ -31,10 +31,10 @@ examples:<br> auto number = 45; //assigns number to be int <br>
 
 ### Loops
 
-1. do-while loop :  the condition is checked after the code, meaning the code in the do is executed at least once, even if the condition is false.Also, note the semicolon after the while condition.eg:
- >   int num = 0;
- >   do {
- >      cout << num << endl;
- >      num+=2;
- >    } while(num <= 10);
+1. do-while loop :  the condition is checked after the code, meaning the code in the do is executed at least once, even if the condition is false.Also, note the semicolon after the while condition. <br>eg:
+ >   int num = 0; <br>
+ >   do { <br>
+ >      cout << num << endl; <br>
+ >      num+=2; <br>
+ >    } while(num <= 10); <br>
 

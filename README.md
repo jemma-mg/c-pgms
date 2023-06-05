@@ -32,20 +32,23 @@ examples:<br> auto number = 45; //assigns number to be int <br>
 ### Loops
 
 1. do-while loop :  the condition is checked after the code, meaning the code in the do is executed at least once, even if the condition is false.Also, note the semicolon after the while condition. <br>eg:
-     >   int num = 0; <br>
-     >   do { <br>
-     >      cout << num << endl; <br>
-     >      num+=2; <br>
-     >    } while(num <= 10); <br>
+
+        int num = 0;
+        do {
+          cout << num << endl;
+           num+=2;
+         } while(num <= 10);
 
 2. for each loop (similar to in in python) -The loop creates a variable, which is automatically assigned to each value of the array during the loop. x in our example.
-    > double prices[] = {5.99, 3.2, 9.99, 29.99}; <br>
-    >  <br>
-    > for(double x: prices) { <br>
-    >   cout << x << endl; <br>
-    > } <br>
+
+         double prices[] = {5.99, 3.2, 9.99, 29.99};
+         
+         for(double x: prices) { 
+           cout << x << endl; 
+         } 
 
 auto keyword used to automatically set the type of a variable based on the value it is assigned to can be used in a for-each loop:
-    > for(auto x: prices) { <br>
-    >   cout << x << endl; <br>
-    > }  <br>
+
+       for(auto x: prices) { 
+           cout << x << endl; 
+       }  

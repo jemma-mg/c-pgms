@@ -52,3 +52,11 @@ auto keyword used to automatically set the type of a variable based on the value
        for(auto x: prices) { 
            cout << x << endl; 
        }  
+
+---
+
+### Pointers
+![image](https://github.com/jemma-mg/cpp-pgms/assets/83303483/5742e744-a276-4afb-a299-ca9eda974e59)
+
+---
+

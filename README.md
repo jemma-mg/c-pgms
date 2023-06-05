@@ -71,7 +71,7 @@ auto keyword used to automatically set the type of a variable based on the value
 
         cout << *(p+1);
         
-    using size in a for loop, as the condition.
+using size in a for loop, as the condition.
         
         for(int i=0;i<size;i++) {
           p[i] = i;
@@ -80,3 +80,11 @@ auto keyword used to automatically set the type of a variable based on the value
         for(int i=0;i<size;i++) {
           cout << p[i] << endl;
         }
+        
+In most cases, memory allocated dynamically is only needed during specific periods of time within a program; once it is no longer needed, it can be freed so that the memory becomes available again for other requests of dynamic memory.This is the purpose of the delete operator: 
+> delete[] p; //delete[] p;
+
+![image](https://github.com/jemma-mg/cpp-pgms/assets/83303483/fa2ca800-6d91-4f3d-8768-59878598cabc)
+
+---
+

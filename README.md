@@ -17,6 +17,11 @@ examples:<br> auto number = 45; //assigns number to be int <br>
 
 ---
 
+### Logical Operators
+![image](https://github.com/jemma-mg/cpp-pgms/assets/83303483/a9892970-ea37-4b99-8065-e8b6c6ff2838)
+
+---
+
 ### Naming Conventions
 ![image](https://github.com/jemma-mg/cpp-pgms/assets/83303483/d6093718-58bc-4adc-9434-137af4f4f7ab)
 

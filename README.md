@@ -38,3 +38,10 @@ examples:<br> auto number = 45; //assigns number to be int <br>
  >      num+=2; <br>
  >    } while(num <= 10); <br>
 
+2. for loop (similar to in in python) -The loop creates a variable, which is automatically assigned to each value of the array during the loop. x in our example.
+> double prices[] = {5.99, 3.2, 9.99, 29.99}; <br>
+>  <br>
+> for(double x: prices) { <br>
+>   cout << x << endl; <br>
+> } <br>
+

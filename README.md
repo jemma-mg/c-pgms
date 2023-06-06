@@ -88,3 +88,4 @@ In most cases, memory allocated dynamically is only needed during specific perio
 
 ---
 
+Three dimensions describe any object in object oriented programming: *identity, attributes, behavior*.

@@ -89,3 +89,5 @@ In most cases, memory allocated dynamically is only needed during specific perio
 ---
 
 Three dimensions describe any object in object oriented programming: *identity, attributes, behavior*.
+
+![image](https://github.com/jemma-mg/cpp-pgms/assets/83303483/85dc0cb1-3cac-4c7f-a9dd-65102836753f)
